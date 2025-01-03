@@ -1,0 +1,71 @@
+{
+    "method": "POST",
+    "uri": [
+        "api_flutter",
+        "anggota.php"
+    ]
+}{
+    "method": "POST",
+    "uri": [
+        "api_flutter",
+        "anggota.php"
+    ]
+}{
+    "method": "POST",
+    "uri": [
+        "api_flutter",
+        "anggota.php"
+    ]
+}{
+    "method": "POST",
+    "uri": [
+        "api_flutter",
+        "anggota.php"
+    ]
+}{
+    "method": "GET",
+    "uri": [
+        "api_flutter",
+        "anggota.php"
+    ]
+}{
+    "method": "GET",
+    "uri": [
+        ""
+    ]
+}{
+    "method": "POST",
+    "uri": [
+        ""
+    ]
+}{
+    "method": "POST",
+    "uri": [
+        ""
+    ]
+}{
+    "method": "POST",
+    "uri": [
+        ""
+    ]
+}{
+    "method": "POST",
+    "uri": [
+        ""
+    ]
+}{
+    "method": "POST",
+    "uri": [
+        ""
+    ]
+}{
+    "method": "GET",
+    "uri": [
+        ""
+    ]
+}{
+    "method": "POST",
+    "uri": [
+        ""
+    ]
+}
